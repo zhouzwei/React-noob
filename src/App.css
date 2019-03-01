@@ -1,0 +1,89 @@
+
+.textcenter{
+	text-align: center;
+}
+.table_form{
+	padding: 15px 25px;
+	display: flex;
+}
+.change_input{
+	height: 35px;
+	flex: 3;
+	box-sizing: border-box;
+	padding-left: 10px;
+	margin-right: 5px;
+	font-size: 16px;
+	
+}
+.add_btn{
+	height: 35px;
+	flex: 1;
+	font-size: 16px;
+}
+.list_item{
+	padding: 0px 25px;
+}
+.list_item .li{
+	height: 25px;
+	/*display: flex;*/
+	line-height: 25px;
+	margin-bottom: 15px;
+}
+.checkbox{
+	width: 25px;
+	height: 25px;
+	float: left;
+	border: none;
+	outline: none;
+	background: none;
+	/*-webkit-appearance: none;*/
+}
+.item_title{
+	float: left;
+	font-size: 18px;
+	margin: 0 15px;
+}
+.del_btn{
+	border: none;
+	background: #00bcd4;
+	padding: 2px 3px;
+	cursor: pointer;
+	color: #fff;
+	font-size: 16px;
+	float: right;
+}
+.state_length{
+	float: left;
+}
+.tabs{
+	padding: 0 25px;
+}
+.tabs_nav{
+	border: none;
+	color: #fff;
+	padding: 5px 10px;
+	margin-left: 5px;
+	outline: none;
+}
+.ontabs_nav{
+	background: #00bcd4;
+}
+
+
+/*.tabs_nav:nth-of-type(1){
+	margin-left: 0;
+}*/
+
+
+.next_page{
+	background: #00BCD4;
+	padding: 5px 0;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+	margin-top: 35px;
+}
+
+
+
+
